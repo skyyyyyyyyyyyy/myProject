@@ -34,7 +34,7 @@ int UAT3(int test3)
         if(n == hun*hun*hun + ten*ten*ten + ind*ind*ind)
             printf("%d  ", n);
     }
-    printf("\n");
+   
    
     return 0;
 }
