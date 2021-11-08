@@ -35,7 +35,6 @@ int UAT3(int test3)
             printf("%d  ", n);
     }
    
-    printf("\n");
     return 0;
 }
 
