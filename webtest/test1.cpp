@@ -11,6 +11,6 @@ int test(int a){
 } 
 
 int main(int a){
-    return 0;
+    return 6;
 }
 
