@@ -4,7 +4,7 @@ int test(int a){
 	if(a>10){
 		a=10;
     }else{
-		a=100;
+		a=10;
 	}
 	return 0;
 	
